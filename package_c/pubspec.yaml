@@ -1,6 +1,5 @@
 name: package_c
 description: "A new Flutter package project."
-publish_to: none
 resolution: workspace
 
 environment:
