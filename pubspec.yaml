@@ -1,0 +1,20 @@
+name: melos_version_test
+publish_to: none
+environment:
+  sdk: '>=3.6.1 <4.0.0'
+
+workspace:
+  - package_a
+  - package_b
+  - package_c
+
+melos:
+  useRootAsPackage: false
+  command:
+    bootstrap:
+      environment:
+        sdk: '>=3.6.1 <4.0.0'
+        flutter: '>=3.27.3 <4.0.0'
+
+dev_dependencies: 
+  melos: ^7.0.0-dev.8

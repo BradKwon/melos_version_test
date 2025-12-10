@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+<module fileurl="file://$PROJECT_DIR$/package_a/melos_package_a.iml" filepath="$PROJECT_DIR$/package_a/melos_package_a.iml" />
+<module fileurl="file://$PROJECT_DIR$/package_b/melos_package_b.iml" filepath="$PROJECT_DIR$/package_b/melos_package_b.iml" />
+<module fileurl="file://$PROJECT_DIR$/package_c/melos_package_c.iml" filepath="$PROJECT_DIR$/package_c/melos_package_c.iml" />
+<module fileurl="file://$PROJECT_DIR$/melos_melos_version_test.iml" filepath="$PROJECT_DIR$/melos_melos_version_test.iml" />
+    </modules>
+  </component>
+</project>
