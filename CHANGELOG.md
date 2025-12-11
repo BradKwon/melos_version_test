@@ -15,6 +15,27 @@ Packages with breaking changes:
 
 Packages with other changes:
 
+ - [`package_a` - `v2.4.0`](#package_a---v240)
+
+---
+
+#### `package_a` - `v2.4.0`
+
+ - **FEAT**: adds addFive method.
+
+
+## 2025-12-11
+
+### Changes
+
+---
+
+Packages with breaking changes:
+
+ - There are no breaking changes in this release.
+
+Packages with other changes:
+
  - [`package_a` - `v2.3.0`](#package_a---v230)
 
 ---
