@@ -11,6 +11,8 @@ workspace:
 melos:
   useRootAsPackage: false
   command:
+    version:
+      buildMetadata: false
     bootstrap:
       environment:
         sdk: '>=3.6.1 <4.0.0'
