@@ -15,6 +15,27 @@ Packages with breaking changes:
 
 Packages with other changes:
 
+ - [`package_a` - `v2.2.0`](#package_a---v220)
+
+---
+
+#### `package_a` - `v2.2.0`
+
+ - **FEAT**: adds addThree method.
+
+
+## 2025-12-11
+
+### Changes
+
+---
+
+Packages with breaking changes:
+
+ - There are no breaking changes in this release.
+
+Packages with other changes:
+
  - [`package_a` - `v2.1.0`](#package_a---v210)
 
 ---
