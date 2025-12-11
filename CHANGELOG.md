@@ -11,6 +11,31 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 Packages with breaking changes:
 
+ - [`package_b` - `v0.1.0`](#package_b---v010)
+
+Packages with other changes:
+
+ - [`package_c` - `v0.0.2+1`](#package_c---v0021)
+
+---
+
+#### `package_b` - `v0.1.0`
+
+ - **BREAKING** **FEAT**: drops minusOne. ([edd1b77e](https://github.com/BradKwon/melos_version_test/commit/edd1b77e0ea5a51cb50723a36e104627fc8b70d9))
+
+#### `package_c` - `v0.0.2+1`
+
+ - **DOCS**: updates changelog. ([72384df0](https://github.com/BradKwon/melos_version_test/commit/72384df0c212f2464e5322b5790147cc54931131))
+
+
+## 2025-12-11
+
+### Changes
+
+---
+
+Packages with breaking changes:
+
  - [`package_a` - `v4.0.0`](#package_a---v400)
 
 Packages with other changes:
