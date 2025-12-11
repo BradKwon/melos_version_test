@@ -11,6 +11,27 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 Packages with breaking changes:
 
+ - There are no breaking changes in this release.
+
+Packages with other changes:
+
+ - [`package_b` - `v1.0.0`](#package_b---v100)
+
+---
+
+#### `package_b` - `v1.0.0`
+
+ - Bump "package_b" to `1.0.0`.
+
+
+## 2025-12-11
+
+### Changes
+
+---
+
+Packages with breaking changes:
+
  - [`package_b` - `v0.1.0`](#package_b---v010)
 
 Packages with other changes:

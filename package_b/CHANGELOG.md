@@ -1,3 +1,7 @@
+## 1.0.0
+
+ - Bump "package_b" to `1.0.0`.
+
 ## 0.1.0
 
 > Note: This release has breaking changes.
