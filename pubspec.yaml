@@ -10,10 +10,11 @@ workspace:
 
 melos:
   useRootAsPackage: false
+  repository: https://github.com/BradKwon/melos_version_test
   command:
     version:
       branch: main
-      # includeCommitId: true
+      includeCommitId: true
       updateGitTagRefs: true
       releaseUrl: true
     bootstrap:
