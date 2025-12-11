@@ -4,4 +4,5 @@ class Calculator {
   int addOne(int value) => value + 1;
   int addTwo(int value) => value + 2;
   int addThree(int value) => value + 3;
+  int addFour(int value) => value + 4;
 }
