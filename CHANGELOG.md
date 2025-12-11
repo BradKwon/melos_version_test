@@ -15,6 +15,27 @@ Packages with breaking changes:
 
 Packages with other changes:
 
+ - [`package_c` - `v2.0.0`](#package_c---v200)
+
+---
+
+#### `package_c` - `v2.0.0`
+
+ - Bump "package_c" to `2.0.0`.
+
+
+## 2025-12-11
+
+### Changes
+
+---
+
+Packages with breaking changes:
+
+ - There are no breaking changes in this release.
+
+Packages with other changes:
+
  - [`package_b` - `v1.0.0`](#package_b---v100)
 
 ---
