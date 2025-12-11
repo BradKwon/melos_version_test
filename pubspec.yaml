@@ -15,7 +15,6 @@ melos:
       branch: main
       includeCommitId: true
       updateGitTagRefs: true
-      releaseUrl: true
     bootstrap:
       environment:
         sdk: '>=3.6.1 <4.0.0'
