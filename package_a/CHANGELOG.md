@@ -1,3 +1,7 @@
+## 2.3.0
+
+ - **FEAT**: adds addFour method.
+
 ## 2.2.0
 
  - **FEAT**: adds addThree method.
