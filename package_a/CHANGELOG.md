@@ -1,3 +1,16 @@
+## 0.1.0
+
+> Note: This release has breaking changes.
+
+ - **FIX**: removes build number.
+ - **FIX**: update changelog.
+ - **FIX**: removes publish_to.
+ - **FEAT**: adds minusTwo method.
+ - **BREAKING** **REVERT**: renames calculator class back.
+ - **BREAKING** **FEAT**: renames calculator class.
+ - **BREAKING** **FEAT**: adds minusThree method.
+ - **BREAKING** **CHORE**: drop minusOne and minusTwo.
+
 ## 0.0.2+1
 
  - **FIX**: removes publish_to.
