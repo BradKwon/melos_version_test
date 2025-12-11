@@ -1,3 +1,9 @@
+## 2.0.0
+
+> Note: This release has breaking changes.
+
+ - **BREAKING** **CHORE**: drop minusThree method.
+
 ## 1.0.0
 
  - Bump "package_a" to `1.0.0`.

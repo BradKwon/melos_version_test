@@ -11,6 +11,27 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 Packages with breaking changes:
 
+ - [`package_a` - `v2.0.0`](#package_a---v200)
+
+Packages with other changes:
+
+ - There are no other changes in this release.
+
+---
+
+#### `package_a` - `v2.0.0`
+
+ - **BREAKING** **CHORE**: drop minusThree method.
+
+
+## 2025-12-11
+
+### Changes
+
+---
+
+Packages with breaking changes:
+
  - There are no breaking changes in this release.
 
 Packages with other changes:
