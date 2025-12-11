@@ -17,4 +17,4 @@ melos:
         flutter: '>=3.27.3 <4.0.0'
 
 dev_dependencies: 
-  melos: ^7.0.0-dev.8
+  melos: ^7.3.0
