@@ -5,4 +5,5 @@ class Calculator {
 
   int minusOne(int value) => value - 1;
   int minusTwo(int value) => value - 2;
+  int minusThree(int value) => value - 3;
 }
