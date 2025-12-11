@@ -1,3 +1,9 @@
+## 4.0.0
+
+> Note: This release has breaking changes.
+
+ - **BREAKING** **FEAT**: drop addFour method. ([de302530](https://github.com/BradKwon/melos_version_test/commit/de30253077e35314dd574e2861ed1bedc9465506))
+
 ## 3.0.0
 
 > Note: This release has breaking changes.

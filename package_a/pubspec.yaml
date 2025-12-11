@@ -1,6 +1,6 @@
 name: package_a
 description: "A new Flutter package project."
-version: 3.0.0
+version: 4.0.0
 resolution: workspace
 
 environment:

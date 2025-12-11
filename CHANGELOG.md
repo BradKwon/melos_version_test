@@ -11,6 +11,27 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 Packages with breaking changes:
 
+ - [`package_a` - `v4.0.0`](#package_a---v400)
+
+Packages with other changes:
+
+ - There are no other changes in this release.
+
+---
+
+#### `package_a` - `v4.0.0`
+
+ - **BREAKING** **FEAT**: drop addFour method. ([de302530](https://github.com/BradKwon/melos_version_test/commit/de30253077e35314dd574e2861ed1bedc9465506))
+
+
+## 2025-12-11
+
+### Changes
+
+---
+
+Packages with breaking changes:
+
  - [`package_a` - `v3.0.0`](#package_a---v300)
 
 Packages with other changes:
