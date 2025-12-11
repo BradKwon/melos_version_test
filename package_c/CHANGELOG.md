@@ -1,3 +1,7 @@
+## 2.0.1
+
+ - **FIX**: updates changelog. ([029275ef](https://github.com/BradKwon/melos_version_test/commit/029275ef093627e9c8df2fcdfbd86841e67ca10d))
+
 ## 2.0.0
 
  - Bump "package_c" to `2.0.0`.
