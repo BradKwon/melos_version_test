@@ -1,3 +1,7 @@
+## 1.0.1
+
+ - **DOCS**: test. ([a2e64624](https://github.com/BradKwon/melos_version_test/commit/a2e64624f1d9bd16081e315e4adf867288acadf3))
+
 ## 1.0.0
 
  - Bump "package_b" to `1.0.0`.
