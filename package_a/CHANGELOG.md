@@ -1,3 +1,9 @@
+## 3.0.0
+
+> Note: This release has breaking changes.
+
+ - **BREAKING** **CHORE**: drop addFive method. ([26c6c076](https://github.com/BradKwon/melos_version_test/commit/26c6c076c367be75e55bb41522c34c62f77f5a15))
+
 ## 2.4.0
 
  - **FEAT**: adds addFive method.

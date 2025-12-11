@@ -11,6 +11,27 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 Packages with breaking changes:
 
+ - [`package_a` - `v3.0.0`](#package_a---v300)
+
+Packages with other changes:
+
+ - There are no other changes in this release.
+
+---
+
+#### `package_a` - `v3.0.0`
+
+ - **BREAKING** **CHORE**: drop addFive method. ([26c6c076](https://github.com/BradKwon/melos_version_test/commit/26c6c076c367be75e55bb41522c34c62f77f5a15))
+
+
+## 2025-12-11
+
+### Changes
+
+---
+
+Packages with breaking changes:
+
  - There are no breaking changes in this release.
 
 Packages with other changes:
