@@ -13,7 +13,7 @@ melos:
   command:
     version:
       branch: main
-      # includeCommitId: true
+      includeCommitId: true
       # updateGitTagRefs: true
       # releaseUrl: true
     bootstrap:
