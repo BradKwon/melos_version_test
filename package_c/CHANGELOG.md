@@ -1,3 +1,7 @@
+## 2.1.0
+
+ - **FEAT**: test. ([ba830a54](https://github.com/BradKwon/melos_version_test/commit/ba830a54621860bad2d56bbb8e64d414236cf543))
+
 ## 2.0.4
 
  - **REVERT**: test. ([4c4625d1](https://github.com/BradKwon/melos_version_test/commit/4c4625d1ba79c0e1ca0af5b67840cd58ee62c811))
