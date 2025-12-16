@@ -3,6 +3,28 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## 2025-12-16
+
+### Changes
+
+---
+
+Packages with breaking changes:
+
+ - There are no breaking changes in this release.
+
+Packages with other changes:
+
+ - [`package_c` - `v2.0.2`](#package_c---v202)
+
+---
+
+#### `package_c` - `v2.0.2`
+
+ - **PERF**: test. ([4461818f](https://github.com/BradKwon/melos_version_test/commit/4461818f3d169a2894cd2bd2c50e0fefa1a1ac62))
+ - **BUG**: test. ([6d47f7bb](https://github.com/BradKwon/melos_version_test/commit/6d47f7bb4b123c8e21acaab1dbca1859f2280434))
+
+
 ## 2025-12-11
 
 ### Changes

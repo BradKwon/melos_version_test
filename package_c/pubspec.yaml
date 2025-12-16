@@ -1,6 +1,6 @@
 name: package_c
 description: "A new Flutter package project."
-version: 2.0.1
+version: 2.0.2
 resolution: workspace
 
 environment:
