@@ -15,6 +15,27 @@ Packages with breaking changes:
 
 Packages with other changes:
 
+ - [`package_c` - `v2.0.4`](#package_c---v204)
+
+---
+
+#### `package_c` - `v2.0.4`
+
+ - **REVERT**: test. ([4c4625d1](https://github.com/BradKwon/melos_version_test/commit/4c4625d1ba79c0e1ca0af5b67840cd58ee62c811))
+
+
+## 2025-12-16
+
+### Changes
+
+---
+
+Packages with breaking changes:
+
+ - There are no breaking changes in this release.
+
+Packages with other changes:
+
  - [`package_c` - `v2.0.3`](#package_c---v203)
 
 ---
