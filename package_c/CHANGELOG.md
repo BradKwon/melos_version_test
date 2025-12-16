@@ -1,3 +1,7 @@
+## 2.0.3
+
+ - **REFACTOR**: test. ([57225802](https://github.com/BradKwon/melos_version_test/commit/5722580294ce7059f5f89a6d9e0f4715ea7ed282))
+
 ## 2.0.2
 
  - **PERF**: test. ([4461818f](https://github.com/BradKwon/melos_version_test/commit/4461818f3d169a2894cd2bd2c50e0fefa1a1ac62))

@@ -15,6 +15,27 @@ Packages with breaking changes:
 
 Packages with other changes:
 
+ - [`package_c` - `v2.0.3`](#package_c---v203)
+
+---
+
+#### `package_c` - `v2.0.3`
+
+ - **REFACTOR**: test. ([57225802](https://github.com/BradKwon/melos_version_test/commit/5722580294ce7059f5f89a6d9e0f4715ea7ed282))
+
+
+## 2025-12-16
+
+### Changes
+
+---
+
+Packages with breaking changes:
+
+ - There are no breaking changes in this release.
+
+Packages with other changes:
+
  - [`package_c` - `v2.0.2`](#package_c---v202)
 
 ---
