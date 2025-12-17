@@ -3,6 +3,34 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## 2025-12-17
+
+### Changes
+
+---
+
+Packages with breaking changes:
+
+ - There are no breaking changes in this release.
+
+Packages with other changes:
+
+ - [`package_a` - `v4.0.1`](#package_a---v401)
+ - [`package_c` - `v2.1.1`](#package_c---v211)
+
+Packages with dependency updates only:
+
+> Packages listed below depend on other packages in this workspace that have had changes. Their versions have been incremented to bump the minimum dependency versions of the packages they depend upon in this project.
+
+ - `package_c` - `v2.1.1`
+
+---
+
+#### `package_a` - `v4.0.1`
+
+ - **DOCS**(package_a): test. ([51fd7b12](https://github.com/BradKwon/melos_version_test/commit/51fd7b1298ddd2acd944da84b988059e6cc457d8))
+
+
 ## 2025-12-16
 
 ### Changes

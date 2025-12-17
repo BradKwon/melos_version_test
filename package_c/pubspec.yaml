@@ -1,6 +1,6 @@
 name: package_c
 description: "A new Flutter package project."
-version: 2.1.0
+version: 2.1.1
 resolution: workspace
 publish_to: none
 
@@ -15,7 +15,7 @@ dependencies:
   package_a:
     git:
       url: https://github.com/BradKwon/melos_version_test
-      ref: package_a-v4.0.0
+      ref: package_a-v4.0.1
       path: package_a
 
 dev_dependencies:

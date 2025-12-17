@@ -1,3 +1,7 @@
+## 2.1.1
+
+ - Update a dependency to the latest release.
+
 ## 2.1.0
 
  - **FEAT**: test. ([ba830a54](https://github.com/BradKwon/melos_version_test/commit/ba830a54621860bad2d56bbb8e64d414236cf543))
