@@ -26,7 +26,7 @@ melos:
           git:
             url: https://github.com/BradKwon/melos_version_test
             path: package_a
-            ref: package_a-v3.0.0
+            ref: package_a-v4.0.0
 
 dev_dependencies: 
   melos: ^7.0.0-dev.8
