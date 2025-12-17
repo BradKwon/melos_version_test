@@ -21,6 +21,12 @@ melos:
       environment:
         sdk: '>=3.6.1 <4.0.0'
         flutter: '>=3.27.3 <4.0.0'
+      dependencies:
+        package_a:
+          git:
+            url: https://github.com/BradKwon/melos_version_test
+            path: package_a
+            ref: package_a-v3.0.0
 
 dev_dependencies: 
   melos: ^7.0.0-dev.8

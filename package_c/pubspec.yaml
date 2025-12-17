@@ -13,11 +13,10 @@ dependencies:
     sdk: flutter
 
   package_a:
-    # git:
-    #   url: https://github.com/BradKwon/melos_version_test
-    #   path: package_a
-    #   ref: main
-    path: ../package_a
+    git:
+      url: https://github.com/BradKwon/melos_version_test
+      ref: package_a-v3.0.0
+      path: package_a
 
 dev_dependencies:
   flutter_test:
