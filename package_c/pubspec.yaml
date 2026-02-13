@@ -5,8 +5,8 @@ resolution: workspace
 publish_to: none
 
 environment:
-  sdk: ">=3.6.1 <4.0.0"
-  flutter: ">=3.27.3 <4.0.0"
+  sdk: ">=3.10.8 <4.0.0"
+  flutter: ">=3.38.9 <4.0.0"
 
 dependencies:
   flutter:
@@ -15,8 +15,9 @@ dependencies:
   package_a:
     git:
       url: https://github.com/BradKwon/melos_version_test
-      ref: package_a-v4.0.1
       path: package_a
+      tag_pattern: 'package_a-v{{version}}'
+    version: ^4.0.1
 
 dev_dependencies:
   flutter_test:

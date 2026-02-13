@@ -19,8 +19,8 @@ melos:
       releaseUrl: true
     bootstrap:
       environment:
-        sdk: '>=3.6.1 <4.0.0'
-        flutter: '>=3.27.3 <4.0.0'
+        sdk: ">=3.10.8 <4.0.0"
+        flutter: ">=3.38.9 <4.0.0"
 
 dev_dependencies: 
-  melos: ^7.0.0-dev.8
+  melos: ^7.4.0
