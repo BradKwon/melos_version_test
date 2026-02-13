@@ -15,6 +15,34 @@ Packages with breaking changes:
 
 Packages with other changes:
 
+ - [`package_a` - `v5.1.0`](#package_a---v510)
+ - [`package_c` - `v2.2.2`](#package_c---v222)
+
+Packages with dependency updates only:
+
+> Packages listed below depend on other packages in this workspace that have had changes. Their versions have been incremented to bump the minimum dependency versions of the packages they depend upon in this project.
+
+ - `package_c` - `v2.2.2`
+
+---
+
+#### `package_a` - `v5.1.0`
+
+ - **FEAT**: test. ([719d9c33](https://github.com/BradKwon/melos_version_test/commit/719d9c33b546825ac7ac93d557bff6f7debeb5dd))
+
+
+## 2026-02-13
+
+### Changes
+
+---
+
+Packages with breaking changes:
+
+ - There are no breaking changes in this release.
+
+Packages with other changes:
+
  - [`package_a` - `v5.0.1`](#package_a---v501)
  - [`package_c` - `v2.2.1`](#package_c---v221)
 

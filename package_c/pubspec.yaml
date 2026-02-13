@@ -1,6 +1,6 @@
 name: package_c
 description: "A new Flutter package project."
-version: 2.2.1
+version: 2.2.2
 resolution: workspace
 publish_to: none
 
@@ -17,7 +17,7 @@ dependencies:
       url: https://github.com/BradKwon/melos_version_test
       path: package_a
       tag_pattern: 'package_a-v{{version}}'
-    version: ^5.0.1
+    version: ^5.1.0
 
 dev_dependencies:
   flutter_test:
