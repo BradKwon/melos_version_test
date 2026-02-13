@@ -1,3 +1,7 @@
+## 2.2.1
+
+ - Update a dependency to the latest release.
+
 ## 2.2.0
 
  - **REVERT**: test. ([4c4625d1](https://github.com/BradKwon/melos_version_test/commit/4c4625d1ba79c0e1ca0af5b67840cd58ee62c811))

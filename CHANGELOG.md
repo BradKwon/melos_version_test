@@ -11,6 +11,34 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 Packages with breaking changes:
 
+ - There are no breaking changes in this release.
+
+Packages with other changes:
+
+ - [`package_a` - `v5.0.1`](#package_a---v501)
+ - [`package_c` - `v2.2.1`](#package_c---v221)
+
+Packages with dependency updates only:
+
+> Packages listed below depend on other packages in this workspace that have had changes. Their versions have been incremented to bump the minimum dependency versions of the packages they depend upon in this project.
+
+ - `package_c` - `v2.2.1`
+
+---
+
+#### `package_a` - `v5.0.1`
+
+ - **FIX**: test. ([8b4ea162](https://github.com/BradKwon/melos_version_test/commit/8b4ea1622967548a8dbdf11588d7205ada104314))
+
+
+## 2026-02-13
+
+### Changes
+
+---
+
+Packages with breaking changes:
+
  - [`package_a` - `v5.0.0`](#package_a---v500)
  - [`package_b` - `v2.0.0`](#package_b---v200)
 

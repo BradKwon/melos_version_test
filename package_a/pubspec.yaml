@@ -1,6 +1,6 @@
 name: package_a
 description: "A new Flutter package project."
-version: 5.0.0
+version: 5.0.1
 resolution: workspace
 publish_to: none
 

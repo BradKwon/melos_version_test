@@ -1,3 +1,7 @@
+## 5.0.1
+
+ - **FIX**: test. ([8b4ea162](https://github.com/BradKwon/melos_version_test/commit/8b4ea1622967548a8dbdf11588d7205ada104314))
+
 ## 5.0.0
 
 > Note: This release has breaking changes.
