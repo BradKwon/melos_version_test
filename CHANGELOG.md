@@ -3,6 +3,59 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## 2026-02-13
+
+### Changes
+
+---
+
+Packages with breaking changes:
+
+ - [`package_a` - `v5.0.0`](#package_a---v500)
+ - [`package_b` - `v2.0.0`](#package_b---v200)
+
+Packages with other changes:
+
+ - [`package_c` - `v2.2.0`](#package_c---v220)
+
+---
+
+#### `package_a` - `v5.0.0`
+
+ - **FIX**: test. ([71a39410](https://github.com/BradKwon/melos_version_test/commit/71a39410cdcfd1b88f38b851e0767ff06e2df123))
+ - **FIX**: removes build number. ([c05ae3c0](https://github.com/BradKwon/melos_version_test/commit/c05ae3c0fdd1a9e5e3ecdb4d0b243b10a1361139))
+ - **FIX**: update changelog. ([bc3a735d](https://github.com/BradKwon/melos_version_test/commit/bc3a735d00e3b356e1465d64ad27d2fd2a299e54))
+ - **FEAT**: adds addFive method. ([dc434b9f](https://github.com/BradKwon/melos_version_test/commit/dc434b9f2f32450a75b0271ff4f7e43cc73206f7))
+ - **FEAT**: adds addFour method. ([b9691fd7](https://github.com/BradKwon/melos_version_test/commit/b9691fd73d738f3e566cb1ffb05e3099ba8c96eb))
+ - **FEAT**: adds addThree method. ([54a2468e](https://github.com/BradKwon/melos_version_test/commit/54a2468e24d036aae9042f11e03e5502eb6a6a43))
+ - **FEAT**: adds addTwo method. ([edaed031](https://github.com/BradKwon/melos_version_test/commit/edaed0312807bd637653c4507ce3ae42a429a907))
+ - **FEAT**: adds minusTwo method. ([2b5ad9af](https://github.com/BradKwon/melos_version_test/commit/2b5ad9af448235f4d4508f680b474acf047c250a))
+ - **DOCS**: updated changelog. ([e3a41e96](https://github.com/BradKwon/melos_version_test/commit/e3a41e96fbbb38083e8057e46f802a2c43ee79a2))
+ - **DOCS**(package_a): test. ([51fd7b12](https://github.com/BradKwon/melos_version_test/commit/51fd7b1298ddd2acd944da84b988059e6cc457d8))
+ - **BREAKING** **REVERT**: renames calculator class back. ([e7d85569](https://github.com/BradKwon/melos_version_test/commit/e7d85569fb83626df829bc25a87a10ae0f30ae6b))
+ - **BREAKING** **FEAT**: drop addFour method. ([de302530](https://github.com/BradKwon/melos_version_test/commit/de30253077e35314dd574e2861ed1bedc9465506))
+ - **BREAKING** **FEAT**: renames calculator class. ([33ab071f](https://github.com/BradKwon/melos_version_test/commit/33ab071fa642b4406251a9e9e602c79b9908a61a))
+ - **BREAKING** **FEAT**: adds minusThree method. ([e9feb0b2](https://github.com/BradKwon/melos_version_test/commit/e9feb0b2b2950e5ac1cff4f84ff3e97c2894c261))
+ - **BREAKING** **CHORE**: drop addFive method. ([26c6c076](https://github.com/BradKwon/melos_version_test/commit/26c6c076c367be75e55bb41522c34c62f77f5a15))
+ - **BREAKING** **CHORE**: drop minusThree method. ([e43f0b92](https://github.com/BradKwon/melos_version_test/commit/e43f0b922ac19434785368512240455dcb68ef6a))
+ - **BREAKING** **CHORE**: drop minusOne and minusTwo. ([f97cb1b0](https://github.com/BradKwon/melos_version_test/commit/f97cb1b081312953f82beabec5fa879a0c13f2a0))
+
+#### `package_b` - `v2.0.0`
+
+ - **DOCS**: test. ([a2e64624](https://github.com/BradKwon/melos_version_test/commit/a2e64624f1d9bd16081e315e4adf867288acadf3))
+ - **BREAKING** **FEAT**: drops minusOne. ([edd1b77e](https://github.com/BradKwon/melos_version_test/commit/edd1b77e0ea5a51cb50723a36e104627fc8b70d9))
+
+#### `package_c` - `v2.2.0`
+
+ - **REVERT**: test. ([4c4625d1](https://github.com/BradKwon/melos_version_test/commit/4c4625d1ba79c0e1ca0af5b67840cd58ee62c811))
+ - **REFACTOR**: test. ([57225802](https://github.com/BradKwon/melos_version_test/commit/5722580294ce7059f5f89a6d9e0f4715ea7ed282))
+ - **PERF**: test. ([4461818f](https://github.com/BradKwon/melos_version_test/commit/4461818f3d169a2894cd2bd2c50e0fefa1a1ac62))
+ - **FIX**: updates changelog. ([029275ef](https://github.com/BradKwon/melos_version_test/commit/029275ef093627e9c8df2fcdfbd86841e67ca10d))
+ - **FEAT**: test. ([ba830a54](https://github.com/BradKwon/melos_version_test/commit/ba830a54621860bad2d56bbb8e64d414236cf543))
+ - **DOCS**: updates changelog. ([72384df0](https://github.com/BradKwon/melos_version_test/commit/72384df0c212f2464e5322b5790147cc54931131))
+ - **BUG**: test. ([6d47f7bb](https://github.com/BradKwon/melos_version_test/commit/6d47f7bb4b123c8e21acaab1dbca1859f2280434))
+
+
 ## 2025-12-17
 
 ### Changes

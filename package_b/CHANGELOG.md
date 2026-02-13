@@ -1,3 +1,10 @@
+## 2.0.0
+
+> Note: This release has breaking changes.
+
+ - **DOCS**: test. ([a2e64624](https://github.com/BradKwon/melos_version_test/commit/a2e64624f1d9bd16081e315e4adf867288acadf3))
+ - **BREAKING** **FEAT**: drops minusOne. ([edd1b77e](https://github.com/BradKwon/melos_version_test/commit/edd1b77e0ea5a51cb50723a36e104627fc8b70d9))
+
 ## 1.0.1
 
  - **DOCS**: test. ([a2e64624](https://github.com/BradKwon/melos_version_test/commit/a2e64624f1d9bd16081e315e4adf867288acadf3))
